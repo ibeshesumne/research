@@ -5,3 +5,5 @@ Will place different projects in separate branches including branches for:
 - general code
 - country code
 - thematic code
+
+General branch will include code that tend to use for all projects. 
