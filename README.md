@@ -5,3 +5,5 @@ Will place different projects in separate branches including branches for:
 - general code
 - country code
 - thematic code
+
+Country code will include projects that am working on specific to Hong Kong, US, and, Germany. 
